@@ -1,0 +1,2 @@
+# kemetisSD
+Pokémon Showdown Kemetis
